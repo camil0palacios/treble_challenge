@@ -1,5 +1,3 @@
-# treble.ai D&D Test
-
 ## Features
 
 * React 16
